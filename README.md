@@ -6,7 +6,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyuexing)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyuexing&hide=css,html)]()
 
 
 <a href="https://github.com/jingyuexing/Ebook" style="margin-bottom:5px">
