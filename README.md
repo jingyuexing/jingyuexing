@@ -4,13 +4,22 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jingyuexing&show_icons=true&theme=solarized-light&count_private=true)
 
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyuexing)]()
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=Ebook)](https://github.com/jingyuexing/Ebook)
+<a href="https://github.com/jingyuexing/Ebook">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=Ebook" />
+</a>
+<a href="https://github.com/jingyuexing/MathLib">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=MathLib" />
+</a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=MathLib)](https://github.com/jingyuexing/MathLib)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=bilibiliAPI)](https://github.com/jingyuexing/bilibiliAPI)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=Data_Struct)](https://github.com/jingyuexing/Data_Struct)
+<a href="https://github.com/jingyuexing/bilibiliAPI">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=bilibiliAPI" />
+</a>
+<a href="https://github.com/jingyuexing/Data_Struct">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=Data_Struct" />
+</a>
 
