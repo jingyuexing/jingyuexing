@@ -1,12 +1,20 @@
 ### Hi there 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jingyuexing&show_icons=true&theme=solarized-light&count_private=true)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingyuexing&hide=css,html)]()
+<table>
+  <tr>
+    <td>
+      <center>
+        <img src="https://github-readme-stats.vercel.app/api?username=jingyuexing&show_icons=true&theme=solarized-light&count_private=true">
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingyuexing&hide=css,html">   
+      </center>
+    </td>
+  </tr>
+</table>
 
 
 <a href="https://github.com/jingyuexing/Ebook" style="margin-bottom:5px">
