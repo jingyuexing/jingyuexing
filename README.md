@@ -5,12 +5,12 @@
   <tr>
     <td>
       <center>
-        <img src="https://github-readme-stats.vercel.app/api?username=jingyuexing&show_icons=true&theme=solarized-light&count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=jingyuexing&show_icons=true&theme=solarized-light&count_private=true&hide_border=true">
       </center>
     </td>
     <td>
       <center>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingyuexing&hide=css,html">   
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingyuexing&hide=css,html&hide_border=true">   
       </center>
     </td>
   </tr>
