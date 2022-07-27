@@ -16,6 +16,7 @@
   </tr>
 </table>
 
+[![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jingyuexing)]()
 
 <a href="https://github.com/jingyuexing/Ebook" style="margin-bottom:5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=Ebook" />
