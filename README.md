@@ -16,7 +16,8 @@
   </tr>
 </table>
 
-[![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jingyuexing)]()
+
+![skills](https://skillicons.dev/icons?i=c,js,python,go,lua,css,hexe,html,java,md,ts,mongodb,nginx,mysql,postgres,react,vue,redis,selenium,solidity,figma,wasm,git,github,androidstudio,raspberrypi,regex)
 
 <a href="https://github.com/jingyuexing/Ebook" style="margin-bottom:5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=Ebook" />
