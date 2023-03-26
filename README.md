@@ -16,6 +16,7 @@
   </tr>
 </table>
 
+## My skills
 
 ![skills](https://skillicons.dev/icons?i=c,js,python,go,lua,css,haxe,html,java,md,ts,mongodb,nginx,mysql,postgres,react,vue,redis,selenium,solidity,nestjs,figma,wasm,git,github,androidstudio,raspberrypi,regex,ps)
 
