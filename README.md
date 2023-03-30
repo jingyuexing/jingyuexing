@@ -16,9 +16,17 @@
   </tr>
 </table>
 
-## My skills
+## Framework
 
-![skills](https://skillicons.dev/icons?i=c,js,python,go,lua,css,haxe,html,java,md,ts,mongodb,nginx,mysql,postgres,react,vue,redis,selenium,solidity,nestjs,figma,wasm,git,github,androidstudio,raspberrypi,regex,ps)
+![skills](https://skillicons.dev/icons?i=react,vue,selenium,nestjs)
+
+## Language
+
+![skills](https://skillicons.dev/icons?i=c,js,python,go,lua,css,haxe,html,java,md,ts,solidity)
+
+## Tech
+![skills](https://skillicons.dev/icons?i=redis,figma,wasm,androidstudio,regex,ps)
+
 
 <a href="https://github.com/jingyuexing/Ebook" style="margin-bottom:5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jingyuexing&repo=Ebook" />
